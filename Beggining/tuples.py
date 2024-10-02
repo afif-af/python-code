@@ -7,3 +7,15 @@ print(tuples[1:3])
 print(tuples[2:])
 print(addtuple * 2)
 print(tuples + addtuple)
+
+dimensions = (200, 50)
+print(dimensions[0])
+print(dimensions[1])
+for dim in dimensions:
+    print(dim)
+
+dimensions = (400, 100)
+print("\nModified dimensions:")
+for dim in dimensions:
+   print(dim)
+

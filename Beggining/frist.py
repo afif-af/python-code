@@ -12,7 +12,10 @@ print(str[2:])
 print(str*3)
 print(str+"fjlkd")
 
-x = input("something:")
+x = input("something string input:")
 print(x)
+
+name="afif af"
+print(name.upper())
 
 
