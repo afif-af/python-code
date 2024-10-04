@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5706261c-18c0-4462-b19e-2eaa94bef3b7" name="Changes" comment="Create fast.py">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_2_2024_5_28_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_2_2024_5_28_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beggining/loopCondition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beggining/loopCondition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beggining/dictinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beggining/dictinary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="D:\Python code\GUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.loopCondition">
+  <component name="RunManager" selected="Python.dictinary (1)">
     <configuration name="List (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictinary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Begginig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beggining" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Begginig/dictinary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beggining/dictinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dictinary (1)" />
         <item itemvalue="Python.loopCondition" />
         <item itemvalue="Python.tuples" />
         <item itemvalue="Python.List (1)" />
         <item itemvalue="Python.frist" />
-        <item itemvalue="Python.dictinary" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +229,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728056129490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="p">
+      <option name="closed" value="true" />
+      <created>1728208681354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728208681354</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p">
+      <option name="closed" value="true" />
+      <created>1728208687543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728208687543</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +274,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create fast.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create fast.py" />
+    <MESSAGE value="p" />
+    <option name="LAST_COMMIT_MESSAGE" value="p" />
   </component>
 </project>
