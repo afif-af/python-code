@@ -12,7 +12,7 @@ label.pack(padx = 5)
 separator = ttk.Separator(frame,orient= tk.HORIZONTAL)
 separator.pack(expand = True, fill = tk.X)
 
-label = ttk.Label(frame, text = "Welcome To TutorialsPoint")
+label = ttk.Label(frame, text = "Welcome To Afif Af Python Practice Code")
 label.pack(padx = 5)
 
 frame.pack(padx = 10, pady = 50, expand = True, fill = tk.BOTH)
