@@ -48,3 +48,12 @@ random.shuffle(list)
 print("Reshuffled list : ", list)
 print("Random Float uniform(5, 10) : ", random.uniform(5, 10))
 print("Random Float uniform(7, 14) : ", random.uniform(7, 14))
+
+
+from random import randint
+print(randint(1, 9))
+
+from random import choice
+players =['charles','martina','micheal','florence''eli']
+first_up=choice(players)
+print(first_up)
