@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5706261c-18c0-4462-b19e-2eaa94bef3b7" name="Changes" comment="p">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/creating a thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreaded/creating a thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreaded/thread life cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreaded/thread life cycle.py" afterDir="false" />
-    </list>
+    <list default="true" id="5706261c-18c0-4462-b19e-2eaa94bef3b7" name="Changes" comment="p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -318,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728309900571</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="p">
+      <option name="closed" value="true" />
+      <created>1728310048299</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728310048299</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
