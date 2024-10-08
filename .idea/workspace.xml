@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5706261c-18c0-4462-b19e-2eaa94bef3b7" name="Changes" comment="p">
-      <change afterPath="$PROJECT_DIR$/Alien Invasion Making a Game with Python/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alien Invasion Making a Game with Python/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alien Invasion Making a Game with Python/ship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt/sports.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alien Invasion Making a Game with Python/alien _invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alien Invasion Making a Game with Python/alien _invasion.py" afterDir="false" />
-    </list>
+    <list default="true" id="5706261c-18c0-4462-b19e-2eaa94bef3b7" name="Changes" comment="p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -406,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728364699049</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="p">
+      <option name="closed" value="true" />
+      <created>1728366955428</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728366955428</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
